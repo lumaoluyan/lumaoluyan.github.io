@@ -1,0 +1,7 @@
+.navigation {
+  display: flex;
+}
+
+.navigation__item--right {
+  margin-left: auto;
+}
