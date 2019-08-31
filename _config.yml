@@ -1,0 +1,22 @@
+# Site settings
+title: LuYan
+description: >
+  My Cool Website
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+# Collection definitions and settings
+# collections:
+#   posts:
+#     permalink: /blog/:title
+
+#   work:
+#     title: Work
+#     permalink: /:collection/:path/
+#     output: true
