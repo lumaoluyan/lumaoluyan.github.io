@@ -1,3 +1,13 @@
+# Build output
+_site
+.sass-cache
+.jekyll-metadata
+
+# OS specific junk
 .DS_Store
-dist/
+.thumbdb
+
+# Dependency managment
+.bundle
+vendor
 node_modules/
