@@ -20,3 +20,5 @@ exclude:
 #     title: Work
 #     permalink: /:collection/:path/
 #     output: true
+
+theme: jekyll-theme-cayman
