@@ -1,8 +1,10 @@
 .project {
+  background: gray;
   position: relative;
   width: 50%;
   float: left;
   padding: 5px;
+  padding-bottom: 30%;
 }
 
 .project:hover .project__title {
@@ -11,6 +13,8 @@
 
 .project__image {
   width: 100%;
+  height: 100%;
+  position: absolute;
 }
 
 .project__title {

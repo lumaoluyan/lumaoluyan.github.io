@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -39,38 +43,15 @@
 
   <main class="page">
     <div class="projects">
-      <article class="project">
-        <img src="images/adidas_neo.jpeg" alt="" class="project__image">
-        <h2 class="project__title">
-          adidas neo
-        </h2>
-        <a href="#" class="project__link"></a>
-      </article>
-
-      <article class="project">
-        <img src="images/adidas_neo.jpeg" alt="" class="project__image">
-        <h2 class="project__title">
-          adidas neo
-        </h2>
-        <a href="#" class="project__link"></a>
-      </article>
-
-      <article class="project">
-        <img src="images/adidas_neo.jpeg" alt="" class="project__image">
-        <h2 class="project__title">
-          adidas neo
-        </h2>
-        <a href="#" class="project__link"></a>
-      </article>
-
-      <article class="project">
-        <img src="images/adidas_neo.jpeg" alt="" class="project__image">
-        <h2 class="project__title">
-          adidas neo
-        </h2>
-        <a href="#" class="project__link"></a>
-      </article>
-    </div>
+      {% for post in site.work %}
+        <article class="project">
+          <img src="{{ post.cover }}" alt="" class="project__image">
+          <h2 class="project__title">
+            {{ post.title }}
+          </h2>
+          <a href="{{ post.url }}" class="project__link"></a>
+        </article>
+      {% endfor %}
   </main>
 
   <script>

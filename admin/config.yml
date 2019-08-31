@@ -3,11 +3,6 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: '_posts/'
-    fields:
-      - { name: Title }
   - name: "work" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Work" # Used in the UI, ie.: "New Post"
     folder: "_work" # The path to the folder where the documents are stored
@@ -16,6 +11,7 @@ collections:
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "project"}
+      - {label: "Cover", name: "cover", widget: "image"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown"}
     meta: # Meta data fields. Just like fields, but without any preview element
