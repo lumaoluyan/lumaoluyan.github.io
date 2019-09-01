@@ -1,0 +1,31 @@
+.article {
+  padding: 10px;
+  max-width: 760px;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.article p,
+.article blockquote,
+.article ul,
+.article video,
+.article img {
+  margin: 1.5em 0;
+}
+
+.article h1 {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.article h2 {
+  margin-top: 2em;
+}
+
+.article h3 {
+  margin-top: 1em;
+}
+
+.article h4 {
+  margin-top: 0.4em;
+}

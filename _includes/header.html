@@ -1,0 +1,23 @@
+<header class="header">
+  <div class="header__section">
+    <h1 class="header__title">
+      <a href="/">
+        LuYan / Mao
+      </a>
+    </h1>
+  </div>
+
+  <div class="header__section">
+    <nav class="navigation">
+      {% for item in site.data.navigation.items %}
+        <a href="{{item.link}}" class="navigation__item">
+          {{item.name}}
+        </a>
+      {% endfor %}
+
+      <a href="#" class="navigation__item navigation__item--right">
+        Instagram
+      </a>
+    </nav>
+  </div>
+</header>
