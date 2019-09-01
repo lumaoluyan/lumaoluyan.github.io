@@ -1,0 +1,15 @@
+.split {
+  overflow: hidden;
+}
+
+.split__column {
+  float: left;
+  width: 50%;
+}
+
+@media(max-width: 980px) {
+  .split__column {
+    width: 100%;
+  }
+}
+

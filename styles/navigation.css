@@ -2,6 +2,10 @@
   display: flex;
 }
 
+.navigation__item {
+  color: black;
+}
+
 .navigation__item--right {
   margin-left: auto;
 }

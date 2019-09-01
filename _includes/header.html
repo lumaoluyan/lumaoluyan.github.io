@@ -13,11 +13,10 @@
         <a href="{{item.link}}" class="navigation__item">
           {{item.name}}
         </a>
+        {% if forloop.last == false %}
+          ,&nbsp;
+        {% endif %}
       {% endfor %}
-
-      <a href="#" class="navigation__item navigation__item--right">
-        Instagram
-      </a>
     </nav>
   </div>
 </header>
