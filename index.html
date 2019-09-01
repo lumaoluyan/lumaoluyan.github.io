@@ -44,13 +44,15 @@ layout: default
   <main class="page">
     <div class="projects">
       {% for post in site.work %}
-        <article class="project">
-          <img src="{{ post.cover }}" alt="" class="project__image">
-          <h2 class="project__title">
-            {{ post.title }}
-          </h2>
-          <a href="{{ post.url }}" class="project__link"></a>
-        </article>
+        <div class="projects__item">
+          <article class="project">
+            <div class="project__cover-image" style="background-image: url({{ post.cover }});"></div>
+            <h2 class="project__title">
+              {{ post.title }}
+            </h2>
+            <a href="{{ post.url }}" class="project__link"></a>
+          </article>
+        </div>
       {% endfor %}
   </main>
 

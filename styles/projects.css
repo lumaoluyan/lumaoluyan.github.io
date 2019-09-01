@@ -1,4 +1,16 @@
 .projects {
   padding: 5px;
-  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.projects__item {
+  padding: 5px;
+  width: 50%;
+  float: left;
+}
+
+@media(max-width: 700px) {
+  .projects__item {
+    width: 100%;
+  }
 }
