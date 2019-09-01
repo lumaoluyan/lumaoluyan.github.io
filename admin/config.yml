@@ -27,6 +27,7 @@ collections:
         fields:
           - { label: 'Layout', name: 'title', widget: 'hidden', default: 'article' }
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
+          - { label: "Cover", name: "cover", widget: "image", required: false }
           - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: settings
     label: Settings
