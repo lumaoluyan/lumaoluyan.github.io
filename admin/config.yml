@@ -28,20 +28,16 @@ collections:
           - { label: 'Layout', name: 'title', widget: 'hidden', default: 'article' }
           - { label: 'Title', name: 'title', widget: 'hidden', default: 'about' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: "config"
-    label: "Config"
-    editor:
-      preview: false
+  - name: settings
+    label: Settings
     files:
-      - label: "Navigation"
-        name: "navigation"
-        file: "_data/navigation.yml"
+      - file: _data/navigation.yml
+        label: Navigation
+        name: navigation
         fields:
-          - {
-              label: "Navigation Items",
-              name: "items",
-              widget: "list",
-              fields:
-                - {label: Name, name: name, widget: string}
-                - {label: Link, name: link, widget: string}
-            }
+          - label: Navigation
+            name: nav_items
+            widget: list
+            fields:
+              - {label: Label, name: label, widget: string}
+              - {label: Path, name: path, widget: string}
