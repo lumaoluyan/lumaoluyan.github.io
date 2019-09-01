@@ -10,7 +10,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "article"}
       - {label: "Cover", name: "cover", widget: "image", required: false}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Body", name: "body", widget: "markdown", required: false}

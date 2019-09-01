@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: article
 cover: /assets/uploads/scroll-after.gif
 title: My Cool App
 ---
