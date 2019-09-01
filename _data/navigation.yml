@@ -1,3 +1,3 @@
 items:
-  - name: Info
-    link: /about.html
+  - link: /about.html
+    name: Info
