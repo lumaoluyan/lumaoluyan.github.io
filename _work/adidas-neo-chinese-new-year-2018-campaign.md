@@ -1,5 +1,6 @@
 ---
 layout: article
+cover: /assets/uploads/adidas_neo.jpeg
 title: Adidas Neo Chinese New Year 2018 Campaign
 ---
 ## The Brief
