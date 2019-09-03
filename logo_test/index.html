@@ -1,0 +1,54 @@
+<style>
+  body {
+    background: black;
+  }
+
+  canvas {
+    background: white;
+    border: 1px solid red;
+  }
+</style>
+
+<canvas class="js-canvas-head" width="500" height="500"></canvas>
+
+<script>
+  const $canvas = document.querySelector('.js-canvas-head');
+  const ctx = $canvas.getContext('2d');
+  const faceBackground = new Image();
+
+  faceBackground.src = 'face.svg';
+
+  let mouseX = 0;
+  let mouseY = 0;
+
+  function drawEye(x, y, size, minX, maxX) {
+    if (x < minX) {
+      x = minX;
+    }
+
+    if (x > maxX) {
+      x = maxX;
+    }
+
+    ctx.fillStyle = 'black';
+    ctx.beginPath();
+    ctx.arc(x, y, size, 0, 2 * Math.PI);
+    ctx.stroke();
+    ctx.fill();
+  }
+
+  function draw() {
+    ctx.clearRect(0, 0, 500, 500);
+    ctx.drawImage(faceBackground, 0, 0);
+
+    drawEye(mouseX, 49, 4, 30, 60);
+    drawEye(mouseX, 49, 4, 95, 130);
+  }
+
+  setInterval(draw, 10);
+
+  document.body.addEventListener('mousemove', (evt) => {
+    mouseX = evt.clientX;
+    mouseY = evt.clientY;
+  });
+</script>
