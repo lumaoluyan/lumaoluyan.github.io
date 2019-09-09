@@ -1,6 +1,5 @@
 .article {
   padding: 0 25px;
-  max-width: 760px;
   font-size: 28px;
   font-weight: 400;
 }
@@ -14,6 +13,7 @@
 .article ul {
   line-height: 1.4;
   margin: 1.2em 0;
+  max-width: 760px;
 }
 
 .article p:first-child,
@@ -45,4 +45,27 @@
 .article h4 {
   font-weight: bold;
   margin-top: 0.4em;
+}
+
+.article__gallery {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: hidden;
+  margin-left: -12px;
+  margin-right: -12px;
+}
+
+.article__gallery img {
+  width: 50%;
+  padding: 12px;
+}
+
+@media(max-width: 600px) {
+  .article__gallery {
+    display: block;
+  }
+
+  .article__gallery img {
+    width: 100%;
+  }
 }
