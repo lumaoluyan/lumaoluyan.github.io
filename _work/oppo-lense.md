@@ -17,3 +17,5 @@ I helped with the storyboard and the styling, however, I couldn’t continue fol
 ![](/assets/uploads/oppo-new-visual-identity4.jpg)
 
 Still I was really happy about the client accept our director recommendation for the production. I am always a big fan of Lernert & Sander since I was in uni. Further info to see full video.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fcF2eVHe_FA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
