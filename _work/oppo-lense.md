@@ -19,9 +19,10 @@ OPPO focus on the beauty on the technology,this film tells the story via an art 
 
 I helped with the storyboard and the styling, however, I couldn’t continue following up the project in the team.
 
-![](/assets/uploads/oppo-new-visual-identity7.jpg)
-
-![](/assets/uploads/oppo-new-visual-identity4.jpg)
+<div class="article__gallery">
+<img src="/assets/uploads/oppo-new-visual-identity7.jpg">
+<img src="/assets/uploads/oppo-new-visual-identity4.jpg">
+</div>
 
 Still I was really happy about the client accept our director recommendation for the production. I am always a big fan of Lernert & Sander since I was in uni. Further info to see full video.
 
