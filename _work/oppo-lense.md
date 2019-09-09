@@ -6,10 +6,10 @@ title: OPPO Lense
 
 In 2018 OPPO, a Chinese mobile manufacturer, were in the process of updating their new visual identity. The work was being done with Pentagram. However, they also needed a video to tell the story of their new logo and brand.
 
-<div class="article__gallery">\
+<div class="article__gallery">
 <img src="/assets/uploads/pp7.png">
-<img src="/assets/uploads/pp9.png">\
-<img src="/assets/uploads/pp2.png">\
+<img src="/assets/uploads/pp9.png">
+<img src="/assets/uploads/pp2.png">
 <img src="/assets/uploads/pp4.png">
 </div>
 
