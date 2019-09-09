@@ -11,7 +11,7 @@ Adidas is one of the leading sportswear brands in China. It wanted to revamp its
 
 Adidas described it’s Neo sub-brand as “youth-oriented sports fashion”. Knowing this, we needed to explore innovative and emerging media channels. Engaging consumers in a new and refreshing way.
 
-## Strategy & Executions 
+## Strategy & Executions
 
 Our focus was on highlighting the concept of “endless possibilities” in fashion styles.
 
@@ -26,6 +26,8 @@ My role included designing the graphic patterns for the filters used on Douyin (
 We took the visual style from the video filters and applied them to other platforms, including the e-commerce store. This emphasized the campaign visual identity.
 
 ## Results
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/358789317?muted=1&autoplay=1&loop=1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 We helped Adidas Neo became the #1 ranked brand platform on Douyin (TikTok) for 2018.
 
