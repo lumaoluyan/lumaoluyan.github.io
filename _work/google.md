@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Google
+title: GDMoA 2017 exhibition leaflet
 ---
 woah
 
-![Me future](/assets/uploads/me-future.jpg)
+![](/assets/uploads/posters.jpg)
