@@ -1,7 +1,8 @@
 .article {
   padding: 0 25px;
   max-width: 760px;
-  font-size: 24px;
+  font-size: 28px;
+  font-weight: 400;
 }
 
 .article img {
@@ -13,8 +14,8 @@
 .article ul,
 .article video,
 .article img {
-  line-height: 1.5;
-  margin: 1.5em 0;
+  line-height: 1.4;
+  margin: 1.2em 0;
 }
 
 .article p:first-child,
@@ -27,13 +28,13 @@
 
 .article h1 {
   line-height: 1.2;
-  font-size: 48px;
-  font-weight: bold;
+  font-size: 30px;
+  font-weight: 700;
 }
 
 .article h2 {
-  font-size: 36px;
-  font-weight: bold;
+  font-size: 30px;
+  font-weight: 700;
   margin-top: 2em;
 }
 
