@@ -11,9 +11,7 @@
 
 .article p,
 .article blockquote,
-.article ul,
-.article video,
-.article img {
+.article ul {
   line-height: 1.4;
   margin: 1.2em 0;
 }
