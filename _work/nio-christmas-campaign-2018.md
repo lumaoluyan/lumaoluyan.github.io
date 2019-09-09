@@ -23,6 +23,20 @@ All this ran alongside events NIO organised with Roots and Shoots. A non-profit 
 
 ## My Role
 
-I designed the lightbox, tree pattern used in the projection and UI for the web app. <How did you do this?>
+I designed the lightbox, tree pattern used in the projection and UI for the web app.
 
-I also art directed the 3D animation for the web app (H5 app) intro, worked with the Spanish 3D animation studio Serial Cut. And art directed the photography for social media posts. <What did art directing involve?>
+I also art directed the 3D animation for the web app (H5 app) intro, worked with the Spanish 3D animation studio Serial Cut. And art directed the photography for social media posts.
+
+## Learning
+
+## Working with another team
+
+It was a great opportunity to work with the 3D design studio Serial Cut. Being the first for me to work across time zones, I learned how to respect the working rituals and ethics of that team.
+
+## Working under pressure
+
+How to stay calm during the pressure of a campaign launch. My director kept me calm and helped me choose what to really focus on, which was the quality. 
+
+## Working on a software project
+
+Working with programmers isn’t to just sit with them and check the layout design. I’d help with keeping the project in scope, ensuring if things are not missed or overdone so we can deliver the work on time. I also learnt how to  check the flow and structure of the web app works from a UX point of view.
