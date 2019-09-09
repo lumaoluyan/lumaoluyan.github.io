@@ -1,5 +1,6 @@
 ---
 layout: article
+cover: /assets/uploads/tree_image.jpg
 title: NIO Christmas Campaign 2018
 ---
 ## The Brief
