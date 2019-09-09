@@ -1,0 +1,19 @@
+---
+layout: article
+title: OPPO Lense
+---
+![](/assets/uploads/374461568063744_.pic.jpg)
+
+In 2018 OPPO, a Chinese mobile manufacturer, were in the process of updating their new visual identity. The work was being done with Pentagram. However, they also needed a video to tell the story of their new logo and brand.
+
+At early phase, we also have designed a series visual adaptation for new identity so they can use at print and digital. To demonstrate the creativity and its design philosophy within the OPPO.
+
+OPPO focus on the beauty on the technology,this film tells the story via an art installation featuring giant, real-life OPPO logos. 
+
+I helped with the storyboard and the styling, however, I couldn’t continue following up the project in the team.
+
+![](/assets/uploads/oppo-new-visual-identity7.jpg)
+
+![](/assets/uploads/oppo-new-visual-identity4.jpg)
+
+Still I was really happy about the client accept our director recommendation for the production. I am always a big fan of Lernert & Sander since I was in uni. Further info to see full video.
